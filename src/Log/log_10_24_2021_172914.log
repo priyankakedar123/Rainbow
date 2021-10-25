@@ -1,0 +1,10 @@
+2021-Oct-24 17:29:01,335 [main] uiTest.SignUPPageTests 
+  INFO  Url is launchedhttps://ijmeet.com
+2021-Oct-24 17:29:05,171 [main] uiTest.SignUPPageTests 
+  INFO  Switched inside a frame
+2021-Oct-24 17:29:05,515 [main] uiTest.SignUPPageTests 
+  INFO  jumped back from frame
+2021-Oct-24 17:29:08,483 [main] UtilPackage.TestListener 
+  INFO  Test is failes take screen shot
+2021-Oct-24 17:29:14,503 [main] UtilPackage.TestListener 
+  ERROR Unable to take screenshot
